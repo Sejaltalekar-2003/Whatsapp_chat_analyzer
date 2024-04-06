@@ -1,10 +1,14 @@
-Some Libraries need to intsall:
 pandas 
-re
-worldcloud
+regex
+wordcloud
 urlextract 
-Streamlit
+streamlit
 emoji
-vedar sentiment 
-matplolib
+vaderSentiment
+matplotlib
 seaborn
+TextBlob
+helper
+preprocessor
+plotly
+emojis
